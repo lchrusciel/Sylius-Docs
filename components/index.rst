@@ -16,6 +16,7 @@ PHP Ecommerce Components
     Product/index
     Promotion/index
     Registry/index
+    Report/index
     Resource/index
     Sequence/index
     Shipping/index
